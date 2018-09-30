@@ -1,7 +1,8 @@
 <<<<<<< HEAD
-# GOV.UK Prototype Kit · [![Greenkeeper badge](https://badges.greenkeeper.io/alphagov/govuk-prototype-kit.svg)](https://greenkeeper.io/)
 
-Go to the [GOV.UK Prototype Kit site](https://govuk-prototype-kit.herokuapp.com/docs) to download the latest version and read the documentation.
+# Andrew Hick's CV
+
+Created using the [GOV.UK Prototype Kit](https://govuk-prototype-kit.herokuapp.com/docs).
 
 ## About the Prototype Kit
 
@@ -26,7 +27,4 @@ We have two Slack channels for the Prototype Kit. You'll need a government email
 
 * [Slack channel for users of the Prototype Kit](https://ukgovernmentdigital.slack.com/messages/prototype-kit/)
 * [Slack channel for developers of the Prototype Kit](https://ukgovernmentdigital.slack.com/messages/prototype-kit-dev/)
-=======
-# cv
-Andrew Hick's CV
 >>>>>>> refs/remotes/origin/master
